@@ -1,0 +1,9 @@
+streamlit
+streamlit-webrtc
+tensorflow-cpu
+opencv-python
+mediapipe
+numpy
+pandas
+scikit-learn
+pickle-mixin
